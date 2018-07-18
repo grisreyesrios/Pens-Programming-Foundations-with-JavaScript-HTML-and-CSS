@@ -1,0 +1,62 @@
+body {background-color: rgb(191, 218, 230);
+}
+.header {
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-color: Blue;
+  border-width: 30px;
+  padding-left: 80px;
+  padding-right: 80px;
+  text-align: center;
+ font-family: "Courier New", Courier
+}
+.box {
+  border: solid;
+  border-width: 20px;
+  border-color: CornflowerBlue;
+  margin: 0px 3px 20px 4px;
+  padding: 0px 27px 10px 27px;
+  border-radius: 20px;
+  font-family: "Courier New", Courier, monospace;
+  
+}
+}
+.Image1 {
+  text-align: center;
+}
+.Image2 {
+  text-align: center;
+}
+h1 {text-align: center;
+    text-shadow: purple 20px 0 50px;
+    font-size: big;
+    color: blue;
+     }
+h2 {text-align: center;
+    text-shadow: purple 20px 0 50px;
+    font-size: big;
+    color: blue;
+     }
+p {
+  font-size: 2 em;
+}
+img  {
+    float: ;
+}
+table {
+    border-collapse: collapse;
+    margin: auto;
+}
+table, th, td {
+    border: 3px solid black;
+}
+
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+ul {
+  color : blue ;
+}
+
+     
