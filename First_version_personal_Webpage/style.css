@@ -17,10 +17,9 @@ body {background-color: rgb(191, 218, 230);
   margin: 0px 3px 20px 4px;
   padding: 0px 27px 10px 27px;
   border-radius: 20px;
-  font-family: "Courier New", Courier, monospace;
-  
+  font-family: "Courier New", Courier, monospace;  
 }
-}
+
 .Image1 {
   text-align: center;
 }
@@ -41,7 +40,7 @@ p {
   font-size: 2 em;
 }
 img  {
-    float: ;
+    float;
 }
 table {
     border-collapse: collapse;
