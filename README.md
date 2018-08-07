@@ -6,7 +6,7 @@ Pens inspired by the specialization from Duke University in Coursera
 
 *Inspirational Quotes with JavaScript.* [A Pen created at CodePen.io](https://codepen.io/grisreyesrios/pen/NBrVvN)
 
-*Periodic Table: Family IA or Alkali Metals.*[A Pen created at CodePen.io](https://codepen.io/grisreyesrios/pen/vaVZOg)
+*Periodic Table: Family IA or Alkali Metals.*[A Pen created at CodePen.io](https://codepen.io/grisreyesrios/full/vaVZOg/)
 
 #### Code Quality:
 
