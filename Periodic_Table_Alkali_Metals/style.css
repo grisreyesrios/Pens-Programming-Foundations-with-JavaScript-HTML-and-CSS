@@ -1,0 +1,104 @@
+body{
+width: 100%;
+background-image: url("https://images.pexels.com/photos/132477/pexels-photo-132477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+}
+h1 {text-align: center;
+    color: white;
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+     }
+h3 {text-align: left;   
+    color: white;
+    line-height: 1.5;
+     }
+p {
+  color:white;
+}
+.box {
+  margin: 20px 30px 10px 30px;
+  padding: 60px 30px 20px 30px;
+  font-family: "Calibri", monospace;
+  
+}
+#demoFont {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 29px;
+letter-spacing: 5.2px;
+word-spacing: 4.8px;
+color: white;
+font-weight: 600;
+text-decoration: none;
+font-style: italic;
+font-variant: small-caps;
+text-transform: uppercase;
+padding: 20px;
+}
+.responsive-container {
+    position: relative;
+    padding-bottom: 30.00%;
+    padding-top: 30px;
+    padding-left: 250px;
+    height: 0;
+    overflow: hidden;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    font-size: 18px;
+    width: 100%;   
+    
+}
+th, td {
+    text-align: center;
+    padding: 20px;
+}
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+tr:nth-child(odd) {
+    background-color: LightGray;
+}
+
+* {box-sizing: border-box}
+.body {font-family: "Lato", sans-serif;}
+/* Style the tab */
+.tab {
+    float: left;
+    border: 1px solid #ccc;
+    background-color: #f1f1f1;
+    width: 30%;
+    height: 400px;
+}
+/* Style the buttons inside the tab */
+.tab button {
+    display: block;
+    background-color: inherit;
+    color: black;
+    padding: 32px 20px;
+    width: 100%;
+    border: none;
+    outline: none;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.2s;
+    font-size: 18px;
+}
+/* Change background color of buttons on hover */
+.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current "tab button" class */
+.tab button.active {
+    background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+    float: left;
+    padding: 0px 12px;
+    border: 1px solid #ccc;
+    width: 70%;
+    border-left: none;
+    height: 300px;
+}
