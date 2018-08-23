@@ -1,10 +1,12 @@
 ## Pens--HTML/CSS/Javascript
 
-Pens inspired by the specialization from Duke University in Coursera 
-
 [*Periodic Table: Family IA or Alkali Metals, full page*](https://codepen.io/grisreyesrios/full/vaVZOg/)
 
 [*Inspirational Quotes with JavaScript.*](https://codepen.io/grisreyesrios/pen/NBrVvN)
+
+Visualization of the small project in Codepen. The user can click on the button to display the inspirational quote (right picture).
+
+<img src="https://user-images.githubusercontent.com/37979454/44551863-b743bb80-a728-11e8-8f68-3666fbe12a08.JPG" width="45%"></img> <img src="https://user-images.githubusercontent.com/37979454/44551795-76e43d80-a728-11e8-80b1-ad630a9d31d5.JPG" width="45%"></img> 
 
 [*First version personal Web Page.*](https://codepen.io/grisreyesrios/pen/JBKQPV)
                                             
