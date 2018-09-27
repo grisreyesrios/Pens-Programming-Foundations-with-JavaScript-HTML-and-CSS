@@ -1,4 +1,4 @@
-## Web Projects under Construction--HTML/CSS/Javascript
+## Web Projects under Construction--HTML/CSS/JavaScript
 
 This repository contains all material related to web projects that are currently under development. It is shown pictures of the most significant and the link to the online editor *Codepen*. 
 
